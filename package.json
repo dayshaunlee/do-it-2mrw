@@ -1,13 +1,13 @@
 {
-  "displayName": "My Electron App",
-  "name": "my-electron-app",
-  "description": "Your awesome app description",
+  "displayName": "Do It 2mrw",
+  "name": "do-it-2mrw",
+  "description": "A to-do app for procrastinators",
   "version": "0.0.0",
   "main": "./node_modules/.dev/main/index.js",
   "resources": "src/resources",
   "author": {
-    "name": "Dalton Menezes",
-    "email": "daltonmenezes@outlook.com"
+    "name": "Dayshaun Lee",
+    "email": "leedayshaun@gmail.com"
   },
   "license": "MIT",
   "packageManager": "pnpm@10.0.0",
@@ -34,7 +34,9 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "electron-router-dom": "^2.1.0",
+    "eslint": "^9.26.0",
     "lucide-react": "^0.477.0",
+    "node-addon-api": "^8.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",
@@ -43,12 +45,14 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
+    "@electron/rebuild": "^4.0.1",
     "@tailwindcss/vite": "^4.0.9",
     "@types/node": "^22.13.8",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@types/semver": "^7.5.8",
     "@vitejs/plugin-react": "^4.0.4",
+    "cmake-js": "^7.3.1",
     "code-inspector-plugin": "^0.20.1",
     "cross-env": "^7.0.3",
     "electron": "^34.3.0",
@@ -65,5 +69,10 @@
     "typescript": "^5.1.6",
     "vite": "^6.2.0",
     "vite-tsconfig-paths": "^5.1.4"
+  },
+  "binary": {
+    "napi_versions": [
+      9
+    ]
   }
 }

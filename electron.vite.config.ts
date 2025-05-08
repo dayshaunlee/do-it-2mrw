@@ -39,6 +39,9 @@ export default defineConfig({
 
     build: {
       outDir: resolve(devPath, 'preload'),
+      rollupOptions: {
+        external: (id) => id.endsWith('.node') || ['fs', 'path', 'electron'].includes(id),
+      },
     },
   },
 

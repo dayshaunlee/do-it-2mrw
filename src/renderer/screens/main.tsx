@@ -10,6 +10,9 @@ import {
 // The "App" comes from the context bridge in preload/index.ts
 const { App } = window
 
+const result = window.App.helloworld('hello hello 123 123 ');
+console.log(result);
+
 export function MainScreen() {
   useEffect(() => {
     // check the console on dev tools
