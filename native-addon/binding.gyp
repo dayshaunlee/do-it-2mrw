@@ -4,7 +4,8 @@
       "target_name": "addon",
       "sources": [
         "src/addon.cpp",
-        "src/test.cpp"
+        "src/test.cpp",
+        "src/task.cpp"
       ],
       "include_dirs": [
         "<!@(node -p \"require('node-addon-api').include\")",

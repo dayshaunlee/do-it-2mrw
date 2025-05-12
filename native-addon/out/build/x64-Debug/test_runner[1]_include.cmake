@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/out/build/x64-Debug/test_runner[1]_tests.cmake")
+  include("C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/out/build/x64-Debug/test_runner[1]_tests.cmake")
+else()
+  add_test(test_runner_NOT_BUILT test_runner_NOT_BUILT)
+endif()

@@ -17,7 +17,7 @@
     "include_dirs": [],
     "libraries": [],
     "msbuild_toolset": "v143",
-    "msvs_windows_target_platform_version": "10.0.22621.0"
+    "msvs_windows_target_platform_version": "10.0.19041.0"
   },
   "variables": {
     "asan": 0,
@@ -491,11 +491,6 @@
     "nodedir": "C:\\Users\\Dayshaun\\AppData\\Local\\node-gyp\\Cache\\22.15.0",
     "python": "C:\\Python313\\python.exe",
     "standalone_static_library": 1,
-    "msbuild_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe",
-    "frozen_lockfile": "",
-    "registry": "https://registry.npmjs.org/",
-    "user_agent": "pnpm/10.10.0 npm/? node/v20.11.1 win32 x64",
-    "verify_deps_before_run": "false",
-    "_jsr_registry": "https://npm.jsr.io/"
+    "msbuild_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe"
   }
 }

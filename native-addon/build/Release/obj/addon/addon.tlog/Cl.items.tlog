@@ -1,3 +1,4 @@
 C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\src\addon.cpp;C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\Release\obj\addon\src\addon.obj
 C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\src\test.cpp;C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\Release\obj\addon\src\test.obj
-C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\node_modules\.pnpm\node-gyp@11.2.0\node_modules\node-gyp\src\win_delay_load_hook.cc;C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\Release\obj\addon\win_delay_load_hook.obj
+C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\src\task.cpp;C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\Release\obj\addon\src\task.obj
+C:\Users\Dayshaun\AppData\Local\pnpm\global\5\.pnpm\node-gyp@11.2.0\node_modules\node-gyp\src\win_delay_load_hook.cc;C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\Release\obj\addon\win_delay_load_hook.obj
