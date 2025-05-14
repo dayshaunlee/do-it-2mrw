@@ -1,0 +1,10 @@
+^C:\USERS\DAYSHAUN\SOURCE\REPOS\DO-IT-2MRW\NATIVE-ADDON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon -BC:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build --check-stamp-file C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
