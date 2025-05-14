@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\2c5ae351c3963d79da950e594a3c75ab\catch2-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\559683f6f18989b67ba86f460a700b2f\catch2-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\1dab0cd315e8c223046cc37d7dc3ecc4\catch2-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Dayshaun\source\repos\do-it-2mrw\native-addon\build\_deps\catch2-subbuild\CMakeFiles\catch2-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{47D33D68-136A-3BFF-8A7C-6214C4664A71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

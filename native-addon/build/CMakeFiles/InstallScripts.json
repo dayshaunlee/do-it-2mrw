@@ -1,7 +1,9 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/cmake_install.cmake"
+		"C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/cmake_install.cmake",
+		"C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-build/cmake_install.cmake",
+		"C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-build/src/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

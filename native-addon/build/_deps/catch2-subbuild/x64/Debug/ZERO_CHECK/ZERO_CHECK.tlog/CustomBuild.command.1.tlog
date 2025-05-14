@@ -1,0 +1,10 @@
+^C:\USERS\DAYSHAUN\SOURCE\REPOS\DO-IT-2MRW\NATIVE-ADDON\BUILD\_DEPS\CATCH2-SUBBUILD\CMAKEFILES\1DAB0CD315E8C223046CC37D7DC3ECC4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-subbuild -BC:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-subbuild/catch2-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

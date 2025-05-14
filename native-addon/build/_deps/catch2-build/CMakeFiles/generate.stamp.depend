@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-src/CMake/CatchConfigOptions.cmake
+C:/Users/Dayshaun/source/repos/do-it-2mrw/native-addon/build/_deps/catch2-src/CMakeLists.txt
